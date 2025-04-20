@@ -1,4 +1,4 @@
-const input = "04/17/2025 05:08 pm";
+const input = "04/17/2025";
 const date = new Date(input);
 const timeTag = date.getTime().toString();
 
