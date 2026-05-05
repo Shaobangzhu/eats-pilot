@@ -160,6 +160,7 @@ Users can record delivery orders.
 - [ ] DELETE /orders/:id
 - [ ] Link orders to user
 - [ ] Validate input data
+- [ ] UI/UX in Figma: Low-fi Wireframe (结构)
 
 ---
 
@@ -179,6 +180,7 @@ Implement Home Radius Strategy scoring.
 - [ ] Integrate scoring engine into backend
 - [ ] Save score + decision in Order
 - [ ] Unit test scoring logic
+- [ ] UI/UX in Figma: Mid-fi UI (带业务逻辑)
 
 ---
 
@@ -206,6 +208,7 @@ This phase includes:
 - Order management UI
 - Basic analytics display
 - Clean MVP styling
+- UI/UX in Figma: High-fi + 实现 (Figma -> Code)
 
 ---
 
@@ -421,11 +424,11 @@ Deploy working demo.
 
 ## Phase 13: MCP Server
 
-## Phase 14: Screenshot OCR Entry
+## Phase 14: React Native App
 
-## Phase 15: Advanced Geo Analytics
+## Phase 15: Screenshot OCR Entry (mobile only)
 
-## Phase 16: React Native App
+## Phase 16: Advanced Geo Analytics
 
 ---
 
