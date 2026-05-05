@@ -516,5 +516,5 @@ Allow the user to quickly evaluate an order during the short Uber Eats popup dec
 ## User Input Format
 
 ```txt
-orderType,payout,miles,estimatedMinutes
+orderType,payout,miles,estimatedMinutes,direction(e|s|w|n|ne|se|sw|nw)
 ```
